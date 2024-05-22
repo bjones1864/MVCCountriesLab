@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|c:\\users\\miwol\\source\\repos\\mvccountrieslab\\mvccountrieslab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|solutionrelative:mvccountrieslab\\countrylistview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|c:\\users\\miwol\\source\\repos\\mvccountrieslab\\mvccountrieslab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|solutionrelative:mvccountrieslab\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|c:\\users\\miwol\\source\\repos\\mvccountrieslab\\mvccountrieslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|solutionrelative:mvccountrieslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|c:\\users\\miwol\\source\\repos\\mvccountrieslab\\mvccountrieslab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|solutionrelative:mvccountrieslab\\countryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|c:\\users\\miwol\\source\\repos\\mvccountrieslab\\mvccountrieslab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DA0BB4-2FE0-4298-B94F-8C67E5ABF986}|MVCCountriesLab\\MVCCountriesLab.csproj|solutionrelative:mvccountrieslab\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\CountryController.cs",
+              "RelativeDocumentMoniker": "MVCCountriesLab\\CountryController.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\CountryController.cs",
+              "RelativeToolTip": "MVCCountriesLab\\CountryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:51:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryListView.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\CountryListView.cs",
+              "RelativeDocumentMoniker": "MVCCountriesLab\\CountryListView.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\CountryListView.cs",
+              "RelativeToolTip": "MVCCountriesLab\\CountryListView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:46:44.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryView.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\CountryView.cs",
+              "RelativeDocumentMoniker": "MVCCountriesLab\\CountryView.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\CountryView.cs",
+              "RelativeToolTip": "MVCCountriesLab\\CountryView.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:40:03.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\Country.cs",
+              "RelativeDocumentMoniker": "MVCCountriesLab\\Country.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\Country.cs",
+              "RelativeToolTip": "MVCCountriesLab\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:38:23.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\Program.cs",
+              "RelativeDocumentMoniker": "MVCCountriesLab\\Program.cs",
+              "ToolTip": "C:\\Users\\miwol\\source\\repos\\MVCCountriesLab\\MVCCountriesLab\\Program.cs",
+              "RelativeToolTip": "MVCCountriesLab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:38:05.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

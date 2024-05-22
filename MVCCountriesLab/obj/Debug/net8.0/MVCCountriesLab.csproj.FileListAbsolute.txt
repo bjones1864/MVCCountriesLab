@@ -1,0 +1,14 @@
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net8.0\MVCCountriesLab.exe
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net8.0\MVCCountriesLab.deps.json
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net8.0\MVCCountriesLab.runtimeconfig.json
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net8.0\MVCCountriesLab.dll
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\bin\Debug\net8.0\MVCCountriesLab.pdb
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.AssemblyInfoInputs.cache
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.AssemblyInfo.cs
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.dll
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\refint\MVCCountriesLab.dll
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.pdb
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\MVCCountriesLab.genruntimeconfig.cache
+C:\Users\miwol\source\repos\MVCCountriesLab\MVCCountriesLab\obj\Debug\net8.0\ref\MVCCountriesLab.dll
